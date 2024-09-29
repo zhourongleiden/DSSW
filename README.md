@@ -1,6 +1,6 @@
 # DSSW
 This is the implementation for our paper entitled: "Dynamic Sub-Sequence Warping: A Representation-Based Similarity Measure for Long Time Series"
-![image text]()  <br>
+![image text]("DSSW.png")  <br>
 Figure: The proposed DSSW method consists of a time series segmentation module, a feature extractor module, and a similarity measure module.
 ## Contents
 ### File
