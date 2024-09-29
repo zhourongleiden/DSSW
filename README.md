@@ -11,5 +11,5 @@ Figure: The proposed DSSW method consists of a time series segmentation module, 
 Please download the data for the experiment from [Google Drive](https://drive.google.com/file/d/1ijqmPkFZXC3HZhZ6zRxfz9Rc3qnt2WnG/view?usp=share_link), 
 and unzip the file to create the "data" folder.
 ## Run the command
-Please run `python DSSW.py --dataname dataset_name --noc value_of_noc --w1 value_of_w1 --w2 value_of_w2` to test DSSW on a specific dataset <br>
-(Please set value of "dataset_name", "noc", "w1", and "w2" as those defined in the paper)
+Please run `python DSSW.py --dataname dataset_name --noc value_of_noc --w1 value_of_w1 --w2 value_of_w2` to test DSSW on a specific dataset. <br>
+(Please set value of "dataset_name", "noc", "w1", and "w2" as those defined in the paper.)
