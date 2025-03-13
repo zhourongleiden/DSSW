@@ -84,3 +84,5 @@ def cloud_model_algorithm_3D_matrix(time_series_source):
         return np.vstack((Ex1,En1,He1,Ex2,En2,He2,Ex3,En3,He3)).T 
     elif axis == 2:
         return np.stack((Ex1,En1,He1,Ex2,En2,He2,Ex3,En3,He3),axis=2)
+
+
