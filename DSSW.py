@@ -181,4 +181,6 @@ if __name__ == '__main__':
     else:
         error = DTW_1NN(flag="out")    
         print("dataname={}, classification_error={}".format(arguments.dataname, round(error,3)))  
+
+    
        
